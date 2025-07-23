@@ -1,7 +1,7 @@
 # MMG_Financial
 
 ## Description
-This is a financial planner landing page. This page is used to connect with potential new clients and display information about the client as well as the services provided by the client
+This is a financial planner landing page. This page is used to connect with potential new clients and display information about the client, as well as the services provided by the client
 
 ## Features
 - Display information about the client
@@ -18,10 +18,15 @@ This is a financial planner landing page. This page is used to connect with pote
 - Re-design page
 - New services page addition
 
-##Design
-WireFrames:
+## Design
+WireFrames: <br />
   Desktop
-  ![Uploading Screenshot 2025-07-22 at 8.35.36 PM.png…]()
+  
+<img width="646" height="854" alt="Screenshot 2025-07-22 at 11 57 20 PM" src="https://github.com/user-attachments/assets/0c0d3173-7040-41ad-9cea-5805fcfc0d3e" />
+<img width="315" height="523" alt="Screenshot 2025-07-22 at 11 57 39 PM" src="https://github.com/user-attachments/assets/3d3d9978-ea75-4b86-b3fb-361b7c293705" />
+<img width="1162" height="666" alt="Screenshot 2025-07-22 at 11 58 10 PM" src="https://github.com/user-attachments/assets/303b3339-188b-429b-a23a-02e6ecc26629" />
+<img width="362" height="345" alt="Screenshot 2025-07-22 at 11 58 34 PM" src="https://github.com/user-attachments/assets/5f8fff67-2273-4f6c-9a94-4856ab26db81" />
+
 
 
 
