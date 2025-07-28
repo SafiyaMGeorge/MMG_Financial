@@ -6,7 +6,7 @@ This is a financial planner landing page. This page is used to connect with pote
 ## Features
 - Display information about the client
 - Browse and view available products
-- Connect with the client via sending a contact email with the end user's info
+- Connect with the client by sending a contact email with the end user's info
 
 
 ## Technologies Used
@@ -15,7 +15,7 @@ This is a financial planner landing page. This page is used to connect with pote
 - JavaScript
 
 ## Future Enhancements
-- Re-design page
+- Redesign the page
 - New services page addition
 
 ## Design
