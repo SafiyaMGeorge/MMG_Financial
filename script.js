@@ -1,4 +1,4 @@
-/*the code block below will be the logic for the collapse nav to appear when clicked, and disappeared when clicked again.*/
+/*the code block below will be the logic for the collapse nav to appear when clicked, and disappeared when clicked again.
 //nav
 
 const mainNav = document.getElementById('nav_bar');
@@ -26,7 +26,7 @@ mainSec.addEventListener('click', (e) =>{
   }
 });
 
-/*the block below stops the animation of the navbar sliding when the page is being resized.*/
+/*the block below stops the animation of the navbar sliding when the page is being resized.
 let resizeTimer;
 window.addEventListener("resize", () => {
   document.body.classList.add("resize-animation-stopper");
@@ -38,7 +38,7 @@ window.addEventListener("resize", () => {
   
 /*Form section*/
 
-/*The block below controls the the button events to open the contact forms. */
+/*The block below controls the the button events to open the contact forms. 
 const buttons = document.querySelectorAll('.btn');
    const formOne = document.getElementById('form_one');
 for(let i = 0; i < buttons.length; i++){
@@ -49,7 +49,7 @@ for(let i = 0; i < buttons.length; i++){
 }
  
 
-/*The block below controls the close button on the contact form.*/
+/*The block below controls the close button on the contact form.*
 
 const close = document.getElementById('close');
 close.addEventListener('click', (e) =>{
@@ -129,3 +129,4 @@ let bannerImg = 'url('+ heroCarosel[2] + ')';
 }
   document.getElementById('banner').style.cssText=bannerStyle;
 let heroImg = document.getElementById('banner').style.backgroundImage = bannerImg;
+*/
