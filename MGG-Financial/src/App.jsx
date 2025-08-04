@@ -4,13 +4,11 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Annuities from "./pages/Annuities";
 import Insuurance from "./pages/Insurance";
-import Investments from "./pages/Investments";
+import Investments from "./pages/Investment";
 import Retirement from "./pages/Retirement";
 function App() {
 
   return (
-    <>
-      hello world
       <Router basename="/MGG-Financial/">
       <Routes>
         <Route path="/" element={<Home />} />
@@ -21,7 +19,6 @@ function App() {
         <Route path="/retirement" element={<Retirement />} />
       </Routes>
     </Router>
-    </>
   )
 }
 
