@@ -5,11 +5,14 @@ import Annuities from "./pages/Annuities";
 import Insurance from "./pages/Insurance";
 import Investments from "./pages/Investment";
 import Retirement from "./pages/Retirement";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
 function App() {
 
   return (
     <Router>
       <div className="MGG-Financial">
+        <Header />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -18,6 +21,7 @@ function App() {
           <Route path="/investments" element={<Investments />} />
           <Route path="/retirement" element={<Retirement />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   )
