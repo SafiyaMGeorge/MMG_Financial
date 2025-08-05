@@ -5,7 +5,6 @@ import Annuities from "./pages/Annuities";
 import Insurance from "./pages/Insurance";
 import Investments from "./pages/Investment";
 import Retirement from "./pages/Retirement";
-import Footer from "./components/Footer";
 function App() {
 
   return (
@@ -19,7 +18,6 @@ function App() {
           <Route path="/investments" element={<Investments />} />
           <Route path="/retirement" element={<Retirement />} />
         </Routes>
-        <Footer />
       </div>
     </Router>
   )
