@@ -9,15 +9,15 @@ import logo from '../assets/Media/MGG-logo.svg'
 library.add(fas, far, fab)
 function Footer() {
   return (
-    <footer className="footer w-full">
-      <div className="container w-full bg-red-900">
-        <div className="content flex justify-between items-center bg-blue-900">
-          <secton className="social-icons">
-          <FontAwesomeIcon icon="fa-brands fa-linkedin" />
-          <FontAwesomeIcon icon="fa-brands fa-square-facebook" />
+    <footer className="footer">
+      <div className="f-container w-screen">
+        <div className="content px-6 flex justify-between items-center">
+          <secton className="social-icons w-20 mr-25">
+          <FontAwesomeIcon icon="fa-brands fa-linkedin" size="2x" color="#F3A916" className="cursor-pointer" />
+          <FontAwesomeIcon icon="fa-brands fa-square-facebook" size="2x" color="#F3A916" className="cursor-pointer" />
         </secton>
         <section className="footer-logo">
-          <img src={logo} alt="MGG Financial Logo" />
+          <img src={logo} alt="MGG Financial Logo" className="w-30"/>
         </section>
         <section className="footer-links">
           <ul className="flex flex-col md:flex-row gap-4 ">
