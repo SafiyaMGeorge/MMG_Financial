@@ -33,16 +33,16 @@ function Home() {
         <section className="service-section pt-10 mb-0 flex-col justify-items-center text-center">
           <h2 className="my-10">Services</h2>
           <section className="service-items flex justify-center py-5 text-center">
-            <div id="Wealth Management" onClick={() => handleClick('/Services')} className="w-3/12 cursor-pointer">
-              <img src={wealthImg} alt="Someone stacking gold coins." />
+            <div id="Wealth-Management" onClick={() => handleClick('/Services')} className="w-3/12 cursor-pointer">
+              <img src={wealthImg} alt="Someone stacking gold coins." className="shadow rounded" />
               <h3 className="mt-4">Wealth Management</h3>
             </div>
-            <div id="Business" onClick={() => handleClick('/Services')} className="w-3/12 mx-10 cursor-pointer">
-              <img src={businessImg} alt="Two women smiling at each other sitting infront a desk with open note books." />
+            <div id="Financial-Planning" onClick={() => handleClick('/Services')} className="w-3/12 mx-10 cursor-pointer">
+              <img src={businessImg} alt="Two women smiling at each other sitting infront a desk with open note books." className="shadow rounded" />
               <h3 className="mt-4">Financial Planning</h3>
             </div>
-            <div id="Retirement" onClick={() => handleClick('/Services')} className="w-3/12 cursor-pointer">
-              <img src={retirementImg} alt="Old man holding baby up." />
+            <div id="Retirement-Planning" onClick={() => handleClick('/Services')} className="w-3/12 cursor-pointer">
+              <img src={retirementImg} alt="Old man holding baby up." className="shadow rounded"/>
               <h3 className="mt-4">Retirement Planning</h3>
             </div>
           </section>
@@ -108,15 +108,15 @@ function Home() {
           <h2>Products</h2>
           <section className="prodect-items flex justify-center py-5 text-center">
             <div id="Insurances" onClick={() => handleClick('/Insurance')} className="w-3/12 cursor-pointer">
-              <img src={insuranceImg} alt="Someone stacking gold coins." />
+              <img src={insuranceImg} alt="Someone stacking gold coins." className="shadow rounded"/>
               <h3 className="mt-4">Insurance</h3>
             </div>
             <div id="Investments" onClick={() => handleClick('/Investment')}className="w-3/12 mx-10 cursor-pointer">
-              <img src={investmentImg} alt="Two women smiling at each other sitting infront a desk with open note books." />
+              <img src={investmentImg} alt="Two women smiling at each other sitting infront a desk with open note books." className="shadow rounded" />
               <h3 className="mt-4">Investments</h3>
             </div>
             <div id="Retirement" onClick={() => handleClick('/Retirement')} className="w-3/12 cursor-pointer">
-              <img src={retirementImg} alt="Old man holding baby up." />
+              <img src={retirementImg} alt="Old man holding baby up." className="shadow rounded" />
               <h3 className="mt-4">Retirement</h3>
             </div>
           </section>
