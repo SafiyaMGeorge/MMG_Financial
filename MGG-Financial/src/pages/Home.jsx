@@ -104,7 +104,7 @@ function Home() {
             </section>
         </div>
         </section>
-        <section className="product-section h-95 justify-items-center content-center bg-[#0B2E46] text-white">
+        <section className="product-section h-95 justify-items-center content-center bg-[#0b2e46] text-white">
           <h2>Products</h2>
           <section className="prodect-items flex justify-center py-5 text-center">
             <div id="Insurances" onClick={() => handleClick('/Insurance')} className="w-3/12 cursor-pointer">
