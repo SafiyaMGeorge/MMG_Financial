@@ -9,13 +9,13 @@ import logo from '../assets/Media/MGG-logo.svg'
 library.add(fas, far, fab)
 function Footer() {
   return (
-    <footer className="footer">
+    <footer>
       <div className="f-container w-screen">
         <div className="content px-6 flex justify-between items-center">
-          <secton className="social-icons w-20 mr-25">
+          <section className="social-icons w-20 mr-25">
           <FontAwesomeIcon icon="fa-brands fa-linkedin" size="2x" color="#F3A916" className="cursor-pointer" />
           <FontAwesomeIcon icon="fa-brands fa-square-facebook" size="2x" color="#F3A916" className="cursor-pointer" />
-        </secton>
+        </section>
         <section className="footer-logo">
           <img src={logo} alt="MGG Financial Logo" className="w-30"/>
         </section>
