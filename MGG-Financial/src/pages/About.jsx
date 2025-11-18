@@ -1,7 +1,7 @@
 import React from "react";
 import ContactBtn from "../components/Buttons";
 import advisorImg from '../assets/Media/Marcia-Gooden-George.png';
-import logo from '../assets/Media/MGG-Logo.svg';
+//import logo from '../assets/Media/MGG-Logo.svg';
 function About() {
   return (
     <div className="about flex-col justify-items-center content-center">
