@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+
+    /* colors */
+  --color-*: initial;
+  --color-light-gray: rgba(216,212,233,1);
+  --color-gold: rgba(243,169,22,1);
+  --color-dark-blue: rgba(11,46,70,1)
+
+    /* font */
+}
