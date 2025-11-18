@@ -11,8 +11,9 @@ function App() {
 
   return (
     <Router>
-      <div className="MGG-Financial">
+      <div className="MGG-Financial flex flex-col min-h-screen">
         <Header />
+        <main className="flex-grow">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -21,6 +22,7 @@ function App() {
           <Route path="/investments" element={<Investments />} />
           <Route path="/retirement" element={<Retirement />} />
         </Routes>
+        </main>
         <Footer />
       </div>
     </Router>
