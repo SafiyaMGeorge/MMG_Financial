@@ -18,7 +18,7 @@ function ServiceCards({ services }) {
 
           return (
             <div key={item.id} onClick={() => setActiveCard(item.id)} className={`w-85 rounded-3xl px-1 py-6 cursor-pointer transform transition-all duration-300 
-                ${ isActive ? "bg-gradient-to-b from-[#4A90E2] to-[#0C243C] text-gold shadow-lg scale-[1.02]"  : "bg-light-gray text-[#0C243C] shadow-sm hover:-translate-y-2 hover:shadow-xl"}`}>
+                ${ isActive ? "bg-linear-to-b from-[#4A90E2] to-[#0C243C] text-gold shadow-lg scale-[1.02]"  : "bg-light-gray text-[#0C243C] shadow-sm hover:-translate-y-2 hover:shadow-xl"}`}>
               <section className="w-66 flex justify-evenly items-center">
                 <div className={`w-10 h-10 rounded-full transition-all duration-300 ${isActive ? "bg-white" : "bg-blue-800"}`}>
                 </div>
