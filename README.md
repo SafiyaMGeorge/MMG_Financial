@@ -34,9 +34,18 @@ This is a financial planner landing page. This page is used to connect with pote
 <img width="206" height="312" alt="Screenshot 2025-07-23 at 12 03 28 AM" src="https://github.com/user-attachments/assets/93a0c0df-c029-46b6-b04c-6614279dde09" />
 
 <h1>Prototypes:<h1/>
-  <h2>Desktop</h2>
+  <h2>Desktop (Original)</h2>
+
+  <img width="1680" height="884" alt="Screenshot 2026-01-14 at 2 04 08 PM" src="https://github.com/user-attachments/assets/d4938b9a-56f7-40e3-93a4-2c4388952666" />
+  
+<img width="1664" height="551" alt="Screenshot 2026-01-14 at 2 07 20 PM" src="https://github.com/user-attachments/assets/e524e82c-d5a6-49cf-8dd2-c4df7a43401e" />
+
+<img width="1664" height="643" alt="Screenshot 2026-01-14 at 2 07 32 PM" src="https://github.com/user-attachments/assets/a75e9668-1a35-4f66-b566-7142dbce5d05" />
+
+<h2>Desktop (Re-Design)</h2>
 
 <img width="249" height="721" alt="Screenshot 2026-01-14 at 1 47 51 PM" src="https://github.com/user-attachments/assets/2a4b5811-89a8-46f5-b826-46ff1bde6227" />
 
 <img width="252" height="722" alt="Screenshot 2026-01-14 at 1 48 04 PM" src="https://github.com/user-attachments/assets/c4ff9997-dd15-40cc-ba6e-abf0ad0dd7b1" />
+
 
