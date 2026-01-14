@@ -74,4 +74,13 @@ This is a financial planner landing page. This page is used to connect with pote
 
 <img width="167" height="533" alt="Screenshot 2026-01-14 at 2 33 12 PM" src="https://github.com/user-attachments/assets/82452164-73d5-4f4c-b844-531450b548aa" />
 
+<h2>Mobile (Re-Design)</h2>
+
+<h3>Home Page</h3>
+
+<img width="86" height="952" alt="Screenshot 2026-01-14 at 3 32 40 PM" src="https://github.com/user-attachments/assets/1f5a0f15-c6b7-41dc-a60e-ef71455cdff8" />
+
+<img width="87" height="952" alt="Screenshot 2026-01-14 at 3 32 55 PM" src="https://github.com/user-attachments/assets/5e76f7b9-f845-4ada-aa93-99af2e617f46" />
+
+<img width="87" height="952" alt="Screenshot 2026-01-14 at 3 33 11 PM" src="https://github.com/user-attachments/assets/86fe3c3c-2dba-4e66-b1ea-086b537b0de4" />
 
