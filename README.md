@@ -10,13 +10,13 @@ This is a financial planner landing page. This page is used to connect with pote
 
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- React
+- Tailwinds
 
 ## Future Enhancements
 - Redesign the page
-- New services page addition
+- Updated about page
+- New products page addition
 
 ## Design
 <h1>WireFrames:<h1/>
