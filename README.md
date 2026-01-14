@@ -44,8 +44,34 @@ This is a financial planner landing page. This page is used to connect with pote
 
 <h2>Desktop (Re-Design)</h2>
 
+<h3>Home Page</h3>
+
 <img width="249" height="721" alt="Screenshot 2026-01-14 at 1 47 51 PM" src="https://github.com/user-attachments/assets/2a4b5811-89a8-46f5-b826-46ff1bde6227" />
 
-<img width="252" height="722" alt="Screenshot 2026-01-14 at 1 48 04 PM" src="https://github.com/user-attachments/assets/c4ff9997-dd15-40cc-ba6e-abf0ad0dd7b1" />
+<img width="217" height="618" alt="Screenshot 2026-01-14 at 2 10 41 PM" src="https://github.com/user-attachments/assets/76b14732-5778-4db9-97bd-93cf6e318555" />
+
+<h3>About Page</h3>
+
+<img width="249" height="706" alt="Screenshot 2026-01-14 at 1 51 33 PM" src="https://github.com/user-attachments/assets/6c4717df-1d2e-42a6-b2af-36539484b1e8" />
+
+<img width="219" height="612" alt="Screenshot 2026-01-14 at 1 38 33 PM" src="https://github.com/user-attachments/assets/80a7fc10-0153-43ce-8402-83f5c905a198" />
+
+<h2>Tablet (Re-Design)</h2>
+
+<h3>Home Page</h3>
+
+<img width="167" height="621" alt="Screenshot 2026-01-14 at 2 32 17 PM" src="https://github.com/user-attachments/assets/90539eb1-9ed9-4a5f-8df9-b22bf3d51a4a" />
+
+<img width="166" height="624" alt="Screenshot 2026-01-14 at 2 32 25 PM" src="https://github.com/user-attachments/assets/bdec488c-deb3-4364-839f-46660b6cd432" />
+
+<img width="166" height="621" alt="Screenshot 2026-01-14 at 2 32 38 PM" src="https://github.com/user-attachments/assets/ba2ecc00-470b-41e7-88b3-5d3344445324" />
+
+<h3>About Page</h3>
+
+<img width="167" height="536" alt="Screenshot 2026-01-14 at 2 32 49 PM" src="https://github.com/user-attachments/assets/191fe572-cca0-4e27-9c10-ac3f006dd44b" />
+
+<img width="170" height="534" alt="Screenshot 2026-01-14 at 2 32 58 PM" src="https://github.com/user-attachments/assets/af67a240-f78e-4b3d-bcdd-a9a89d9f0b71" />
+
+<img width="167" height="533" alt="Screenshot 2026-01-14 at 2 33 12 PM" src="https://github.com/user-attachments/assets/82452164-73d5-4f4c-b844-531450b548aa" />
 
 
